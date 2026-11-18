@@ -73939,5 +73939,12 @@
     "author": "João Alves",
     "description": "Chat with your Obsidian vault using your ChatGPT plan. Search notes and PDFs, add context notes, attach images, and optionally search the web. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "alvesxvii/brainiac-wizard"
+  },
+  {
+    "id": "draw-steel-scabbard",
+    "name": "Draw Steel Scabbard",
+    "author": "Wzzzrd86",
+    "description": "Browse, search, and link Draw Steel weapons, treasures, and crafting items directly from Scabbard.",
+    "repo": "wzzzrd86/obsidian-draw-steel-scabbard"
   }
 ]
